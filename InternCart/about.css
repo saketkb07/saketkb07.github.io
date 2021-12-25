@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background: url('about.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   width: 1347px;
+    height: 100vh;
+}
+.row{
+    padding-left: 220px;
+    padding-top: 250px;
+    font-size: 25px;
+}
+.title{
+    padding-left: 300px;
+    transform: translateY(-160px);
+}
+.icon{
+    padding-left: 550px;
+    
+}
+
+.footer{
+    padding-left: 480px;
+    font-size: 8px;
+    color: gray;
+    background: black;
+    transform: translateY(11px);
+}
+.image1{
+    transform: translateY(-230px);
+    padding-left: 150px;
+}.image2{
+    transform: translateY(-310px);
+    padding-left: 560px;
+}
+.description{
+    transform: translateY(-200px);
+}
